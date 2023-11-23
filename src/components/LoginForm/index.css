@@ -1,0 +1,16 @@
+/* Write your CSS code here */
+.LoginFormMainImage {
+  height: 100px;
+  width: 200px;
+}
+.LoginFormWebSiteLogo {
+  height: 40px;
+  width: 180px;
+}
+.BgFormLogin {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  margin: 44px;
+}

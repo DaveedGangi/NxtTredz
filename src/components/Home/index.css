@@ -1,0 +1,16 @@
+/* Write your CSS code here */
+
+.bg {
+  height: 100vh;
+}
+
+.WebSiteLogo {
+  height: 70px;
+  width: 300px;
+}
+
+@media (max-width: 767px) {
+  .home {
+    display: none;
+  }
+}
